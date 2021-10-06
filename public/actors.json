@@ -1,0 +1,82 @@
+[
+    {
+        "id" : "1",
+        "name" : "Johnny Depp",
+        "email": "jony@gmail.com",
+        "salary": "100",
+        "genre": "action",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTM0ODU5Nzk2OV5BMl5BanBnXkFtZTcwMzI2ODgyNQ@@._V1_UY209_CR3,0,140,209_AL_.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Brad Pitt",
+        "email": "brad@gmail.com",
+        "salary": "120",
+        "genre": "action",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+        "id" : "3",
+        "name" : "Angelina Jolie",
+        "email": "jolie@gmail.com",
+        "salary": "80",
+        "genre": "action",
+        "img": "https://m.media-amazon.com/images/M/MV5BODg3MzYwMjE4N15BMl5BanBnXkFtZTcwMjU5NzAzNw@@._V1_UY209_CR15,0,140,209_AL_.jpg"
+    },
+    {
+        "id" : "4",
+        "name" : "Leonardo DiCaprio",
+        "email": "Leonardo@gmail.com",
+        "salary": "110",
+        "genre": "romance",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_UY209_CR7,0,140,209_AL_.jpg"
+    },
+    {
+        "id" : "5",
+        "name" : "Tom Cruise",
+        "email": "cruise@gmail.com",
+        "salary": "130",
+        "genre": "action",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTk1MjM3NTU5M15BMl5BanBnXkFtZTcwMTMyMjAyMg@@._V1_UY209_CR9,0,140,209_AL_.jpg"
+    },
+    {
+        "id" : "6",
+        "name" : "Arnold Schwarzenegger",
+        "email": "arnold@gmail.com",
+        "salary": "150",
+        "genre": "action",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTI3MDc4NzUyMV5BMl5BanBnXkFtZTcwMTQyMTc5MQ@@._V1_UY209_CR13,0,140,209_AL_.jpg"
+    },
+    {
+        "id" : "7",
+        "name" : "Sylvester Stallone",
+        "email": "Sylvester@gmail.com",
+        "salary": "120",
+        "genre": "action",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTQwMTk3NDU2OV5BMl5BanBnXkFtZTcwNTA3MTI0Mw@@._V1_UY209_CR5,0,140,209_AL_.jpg"
+    },
+    {
+        "id" : "8",
+        "name" : "Kate Winslet",
+        "email": "kate@gmail.com",
+        "salary": "70",
+        "genre": "comedy",
+        "img": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+        "id" : "9",
+        "name" : "Keanu Reeves",
+        "email": "reeves@gmail.com",
+        "salary": "130",
+        "genre": "action",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTkzODI4MDMtNDNmZC00NDZlLWFmNTktNDRhOWE2YzhlZTQ2XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_UY209_CR13,0,140,209_AL_.jpg"
+    },
+    {
+        "id" : "10",
+        "name" : "Vin Diesel",
+        "email": "vin@gmail.com",
+        "salary": "120",
+        "genre": "action",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_UY209_CR5,0,140,209_AL_.jpg"
+    }
+]
